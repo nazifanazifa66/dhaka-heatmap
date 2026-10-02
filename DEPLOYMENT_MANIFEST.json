@@ -1,0 +1,12 @@
+{
+  "entrypoint": "app.py",
+  "python_recommended": "3.12",
+  "required_runtime_files": [
+    "dhaka_heat_risk_data.csv",
+    "Dhaka_Heatmap_Grid_Features.csv",
+    "Dhaka_Heatmap_Grid_Final.geojson",
+    "random_forest_model.joblib",
+    "linear_regression_model.joblib",
+    "xgboost_model.json"
+  ]
+}
